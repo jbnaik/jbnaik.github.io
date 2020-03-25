@@ -1,4 +1,4 @@
-# jbnaik.ga
+# JB Naik
 
 ## Personal Projects
 
